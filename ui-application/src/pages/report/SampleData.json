@@ -1,0 +1,207 @@
+{
+  "results": [
+    {
+      "name": "Restaurant A",
+      "restaurantDescription": "A popular restaurant with a diverse menu.",
+      "rank": 1,
+      "value": 5.964984892614368,
+      "detailsInfo": "Offering a variety of cuisines and a cozy ambiance.",
+      "address": "123 Main Street",
+      "lat": 37.12345,
+      "long": -122.67890
+    },
+    {
+      "name": "Restaurant B",
+      "restaurantDescription": "A trendy restaurant with a modern vibe.",
+      "rank": 2,
+      "value": 5.964984892614368,
+      "detailsInfo": "Known for its innovative dishes and artistic presentation.",
+      "address": "456 Elm Street",
+      "lat": 37.54321,
+      "long": -122.09876
+    },
+    {
+      "name": "Restaurant C",
+      "restaurantDescription": "A cozy café serving homemade pastries and coffee.",
+      "rank": 3,
+      "value": 5.964984892614368,
+      "detailsInfo": "Relaxing atmosphere and friendly staff.",
+      "address": "789 Oak Street",
+      "lat": 37.98765,
+      "long": -122.34567
+    },
+    {
+      "name": "Restaurant D",
+      "restaurantDescription": "An upscale dining experience with a panoramic view.",
+      "rank": 4,
+      "value": 5.964984892614368,
+      "detailsInfo": "Elegant ambiance and gourmet menu.",
+      "address": "321 Pine Street",
+      "lat": 37.24680,
+      "long": -122.87654
+    },
+    {
+      "name": "Restaurant E",
+      "restaurantDescription": "A family-friendly restaurant with a play area.",
+      "rank": 5,
+      "value": 5.964984892614368,
+      "detailsInfo": "Great options for kids and a fun-filled environment.",
+      "address": "654 Cedar Street",
+      "lat": 37.13579,
+      "long": -122.76543
+    },
+    {
+      "name": "Restaurant F",
+      "restaurantDescription": "A cozy pizzeria with wood-fired oven.",
+      "rank": 6,
+      "value": 5.964984892614368,
+      "detailsInfo": "Authentic Italian flavors and fresh ingredients.",
+      "address": "987 Maple Street",
+      "lat": 37.56789,
+      "long": -122.54321
+    },
+    {
+      "name": "Restaurant G",
+      "restaurantDescription": "A seafood restaurant with a waterfront view.",
+      "rank": 7,
+      "value": 5.964984892614368,
+      "detailsInfo": "Fresh catch of the day and a relaxing atmosphere.",
+      "address": "135 Walnut Street",
+      "lat": 37.87654,
+      "long": -122.43210
+    },
+    {
+      "name": "Restaurant H",
+      "restaurantDescription": "A vegan eatery with a focus on healthy dishes.",
+      "rank": 8,
+      "value": 5.964984892614368,
+      "detailsInfo": "Plant-based options and nutritious choices.",
+      "address": "246 Cherry Street",
+      "lat": 37.01928,
+      "long": -122.03927
+    },
+    {
+      "name": "Restaurant I",
+      "restaurantDescription": "An international buffet with a vast selection.",
+      "rank": 9,
+      "value": 5.964984892614368,
+      "detailsInfo": "Cuisine from around the world under one roof.",
+      "address": "579 Vine Street",
+      "lat": 37.37462,
+      "long": -122.28461
+    },
+    {
+      "name": "Restaurant J",
+      "restaurantDescription": "A steakhouse with premium cuts and grill expertise.",
+      "rank": 10,
+      "value": 5.964984892614368,
+      "detailsInfo": "Juicy steaks and a welcoming atmosphere.",
+      "address": "892 Orange Street",
+      "lat": 37.74319,
+      "long": -122.17385
+    },
+    {
+      "name": "Restaurant K",
+      "restaurantDescription": "A charming bistro with a focus on seasonal ingredients.",
+      "rank": 11,
+      "value": 5.964984892614368,
+      "detailsInfo": "Farm-to-table concept and culinary creativity.",
+      "address": "163 Berry Street",
+      "lat": 37.23847,
+      "long": -122.87263
+    },
+    {
+      "name": "Restaurant L",
+      "restaurantDescription": "A rooftop bar with panoramic city views.",
+      "rank": 12,
+      "value": 5.964984892614368,
+      "detailsInfo": "Signature cocktails and a vibrant atmosphere.",
+      "address": "284 Plum Street",
+      "lat": 37.62748,
+      "long": -122.36184
+    },
+    {
+      "name": "Restaurant M",
+      "restaurantDescription": "A cozy tavern with a selection of craft beers.",
+      "rank": 13,
+      "value": 5.964984892614368,
+      "detailsInfo": "Pub-style food and a wide beer menu.",
+      "address": "385 Olive Street",
+      "lat": 37.96351,
+      "long": -122.75938
+    },
+    {
+      "name": "Restaurant N",
+      "restaurantDescription": "A sushi bar with skilled chefs and fresh fish.",
+      "rank": 14,
+      "value": 5.964984892614368,
+      "detailsInfo": "Sashimi, nigiri, and creative sushi rolls.",
+      "address": "486 Fig Street",
+      "lat": 37.54162,
+      "long": -122.15874
+    },
+    {
+      "name": "Restaurant O",
+      "restaurantDescription": "A Mexican cantina with a vibrant atmosphere.",
+      "rank": 15,
+      "value": 5.964984892614368,
+      "detailsInfo": "Tacos, enchiladas, and margaritas.",
+      "address": "709 Lemon Street",
+      "lat": 37.93746,
+      "long": -122.64739
+    },
+    {
+      "name": "Restaurant P",
+      "restaurantDescription": "A café with a cozy outdoor patio.",
+      "rank": 16,
+      "value": 5.964984892614368,
+      "detailsInfo": "Coffee, pastries, and a relaxing environment.",
+      "address": "538 Chestnut Street",
+      "lat": 37.31549,
+      "long": -122.48627
+    },
+    {
+      "name": "Restaurant Q",
+      "restaurantDescription": "A Thai restaurant with authentic flavors.",
+      "rank": 17,
+      "value": 5.964984892614368,
+      "detailsInfo": "Curries, noodles, and spicy delights.",
+      "address": "870 Lime Street",
+      "lat": 37.84176,
+      "long": -122.72584
+    },
+    {
+      "name": "Restaurant R",
+      "restaurantDescription": "A Mediterranean eatery with a sunny terrace.",
+      "rank": 18,
+      "value": 5.964984892614368,
+      "detailsInfo": "Fresh salads, grilled meats, and mezze.",
+      "address": "195 Walnut Street",
+      "lat": 37.42638,
+      "long": -122.34792
+    },
+    {
+      "name": "Restaurant S",
+      "restaurantDescription": "A sushi and teppanyaki restaurant with a show.",
+      "rank": 19,
+      "value": 5.964984892614368,
+      "detailsInfo": "Live cooking and entertaining performances.",
+      "address": "315 Pine Street",
+      "lat": 37.72386,
+      "long": -122.56734
+    },
+    {
+      "name": "Restaurant T",
+      "restaurantDescription": "A French bistro with a cozy ambiance.",
+      "rank": 20,
+      "value": 5.964984892614368,
+      "detailsInfo": "Classic French dishes and fine wines.",
+      "address": "642 Elm Street",
+      "lat": 37.28764,
+      "long": -122.47853
+    }
+  ],
+  "page": 3,
+  "limit": 10,
+  "total_pages": 271
+}

@@ -1,0 +1,14 @@
+battery
+biological
+brown-glass
+cardboard
+clothes
+green-glass
+metal
+non-recycle-icon
+paper
+plastic
+recycle-icon
+shoes
+trash
+white-glass
